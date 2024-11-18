@@ -19,7 +19,7 @@ You can also simply dowload the executable of the game:
 
 ## The game itself
 
-The game is powered by Pygame for Python. The goal is to turn off all the yellow lights on the grid by clicking them: clicking a light change its status and those of all the surrounding lights in a cross shape. 
+The game is powered by Pygame for Python. The goal is to turn off all the yellow lights on the grid by clicking them: clicking a light changes its status and those of all the surrounding lights in a cross shape. 
 
 You can play on 3x3, 4x4 and 5x5 grids to change the level of difficulty. If at any given point you're having trouble solving the grid, you can toggle on and off the solution to see which lights need to be pressed. When you have finished, you can simply start a new random game by selecting a grid size of quit the app.
 
